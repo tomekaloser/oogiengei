@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reoyiozeet.bimmel.us/sitemap.xml
